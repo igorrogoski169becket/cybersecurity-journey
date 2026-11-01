@@ -24,3 +24,9 @@ Endereços privados:
 porta 80 - HTTP
 porta 22 - SSH
 porta 443 - HTTPS
+
+ARP => protocolo utilizado para resolver os endereços em uma rede
+
+
+
+ 
